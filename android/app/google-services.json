@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582051428490",
+    "project_id": "pandaloginsignup",
+    "storage_bucket": "pandaloginsignup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582051428490:android:fb7576ade9406338049573",
+        "android_client_info": {
+          "package_name": "com.example.panda_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5RiSH0VAcxS_6I-C8epfv2ejgZf89sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
